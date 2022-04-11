@@ -1,4 +1,4 @@
-baseURL = "https://dreamy-nasturtium-e1ca02.netlify.app/"
+baseURL = "https://phuocise.com/"
 # [en, zh-cn, fr, pl, ...] determines default content language
 # [en, zh-cn, fr, pl, ...] 设置默认的语言
 defaultContentLanguage = "en"
