@@ -485,7 +485,7 @@ canonifyURLs= true
       # 出版者信息
       [params.page.seo.publisher]
         name = "xxxx"
-        logoUrl = "/images/avatar.png"
+        logoUrl = ""
 
   # TypeIt config
   # TypeIt 配置
